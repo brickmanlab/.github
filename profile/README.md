@@ -1,6 +1,6 @@
 ![](https://github.com/brickmanlab/.github/blob/master/profile/BrickmanBanner.png) 
 
-# reNEW Brickman Group
+# Brickman Group <img src="https://github.com/brickmanlab/.github/blob/master/profile/reNEW_logo.png" width="200">
 ### Transcriptional basis for cell fate choice
 
 <br>
@@ -13,7 +13,7 @@
 
 The Brickman group aims to understand the transcriptional basis for early embryonic lineage specification. 
 
-**In particular, the group is interested in dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.**
+**We are interested in the dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.**
 
 <br>
 
