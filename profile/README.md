@@ -6,15 +6,20 @@
 
 The [Brickman group](https://renew.ku.dk/research/reseach-groups/brickman-group/) aims to understand the transcriptional basis for early embryonic lineage specification.
 
-**We are interested in the dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.**
+We are interested in the dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.
 
 ## Publications
 
 <details>
   <summary> Selected publications </summary>
+Wong, Y. F., Kumar, Y., Proks, M., Herrera, J. A. R., Rothová,M. M., Monteiro, R. S., Pozzi, S., Jennings, R. E., Hanley, N. A., Bickmore, W. A., and Brickman, J. M. **(2023)**. [Expansion of ventral foregut is linked to changes in the enhancer landscape for organ-specific differentiation](https://www.nature.com/articles/s41556-022-01075-8). _Nature Cell Biology_, doi: 10.1038/s41556-022-01075-8.
+  
+Perera, M., Nissen, S. B., Proks, M., Pozzi, S., Monteiro, R. S., Trusina, A., and Brickman, J. M. **(2022)**. [Transcriptional heterogeneity and cell cycle regulation as central determinants of Primitive Endoderm priming](https://elifesciences.org/articles/78967). _eLife_, doi: 10.7554/eLife.78967.
 
 Rothová, M. M., Nielsen, A. V., Proks, M., Wong, Y. F., Riveiro, A. R., Linneberg-Agerholm, M., David, E., Amit, I., Trusina, A., and Brickman, J. M. **(2022)**. [Identification of the central intermediate in the extra-embryonic to embryonic endoderm transition through single-cell transcriptomics](https://www.nature.com/articles/s41556-022-00923-x). _Nature Cell Biology_, doi: 10.1038/s41556-022-00923-x.
-
+  
+Riveiro, A. R., and Brickman, J. M. **(2020)**. [From pluripotency to totipotency: an experimentalist's guide to cellular potency](https://journals.biologists.com/dev/article/147/16/dev189845/223002/From-pluripotency-to-totipotency-an). _Development_, doi: 10.1242/dev.189845.
+  
 Hamilton, W.B., Mosesson, Y., Monteiro, R.S., Emdal, K.B., Knudsen, T.E., Francavilla, C., Barkai, N., Olsen, J.V. and Brickman, J.M. **(2019)**. [Dynamic lineage priming is driven via direct enhancer regulation by ERK](https://www.nature.com/articles/s41586-019-1732-z). _Nature_, doi: 10.1038/s41586-019-1732-z.
 
 Weinert, B.T., Narita, T., Satpathy, S., Srinivasan, B., Hansen, B.K., Scholz, C., Hamilton, W.B., Zucconi, B.E., Wang, W.W., Liu, W.R., Brickman, J.M., Kesicki, E.A., Lai, A., Bromberg, K.D., Cole, P.A., and Choudhary, C. **(2018)**. [Time-Resolved Analysis Reveals Rapid Dynamics and Broad Scope of the CBP/p300 Acetylome](https://www.sciencedirect.com/science/article/pii/S0092867418305269?via%3Dihub). _Cell_ 174, 231-244.e212, doi:10.1016/j.cell.2018.04.033.
