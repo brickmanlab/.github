@@ -2,7 +2,7 @@
 
 # reNEW Brickman Group
 ### Transcriptional basis for cell fate choice
-![](Brickman1.jpg)
+![](https://github.com/brickmanlab/.github/blob/master/profile/Brickman1.jpg)
 
 <br>
 
