@@ -1,19 +1,32 @@
-![](https://github.com/user/READMEbanner.png) 
+![](https://github.com/brickmanlab/.github/blob/master/profile/BrickmanBanner.png) 
 
 # reNEW Brickman Group
 ### Transcriptional basis for cell fate choice
-![](https://github.com/brickmanlab/.github/blob/master/profile/Brickman1.jpg)
+
+<br>
+
+<p align="center">
+<img src="https://github.com/brickmanlab/.github/blob/master/profile/Brickman1.jpg" width="500">
+</p>
+
+<br>
+
+The Brickman group aims to understand the transcriptional basis for early embryonic lineage specification. 
+
+**In particular, the group is interested in dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.**
 
 <br>
 
 ## Group research
-In particular we are interested in dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment. As early mammalian development is highly regulative the derivation of embryonic stem (ES) cell lines from early embryos produces heterogeneous culture systems that can recapitulate the progenitor cell types normally present in the embryo. As a result we are able to exploit ES cells as a model to study the process of lineage choice in embryonic development and, infer from embryonic development the identity of factors that block differentiation to support ES cell self-renewal. We seek to understand the transcriptional basis of ES cell potency/pluripotency and how this relates to normal embryonic development.
+<details>
+As early mammalian development is highly regulative the derivation of embryonic stem (ES) cell lines from early embryos produces heterogeneous culture systems that can recapitulate the progenitor cell types normally present in the embryo. As a result we are able to exploit ES cells as a model to study the process of lineage choice in embryonic development and, infer from embryonic development the identity of factors that block differentiation to support ES cell self-renewal. We seek to understand the transcriptional basis of ES cell potency/pluripotency and how this relates to normal embryonic development.
 
 #### Our primary focus has been on the specification and patterning of endoderm, both dynamically in ES cell culture, and during differentiation.
 
 Understanding the process of endoderm specification is essential for the directed differentiation of embryonic stem (ES) cells towards specific functional cell types from liver, lung, thyroid, thymus, and pancreas. Indeed our work in this area has already generated technologies for the directed differentiation of both mouse and human ES cells. The induction of endoderm from undifferentiated precursor populations also requires the removal of key blocks to differentiation and our work also suggests that there are important links between certain negative regulators of endoderm specification and ES cell self-renewal.
 
 As the pathways that regulate early embryonic differentiation and the factors that regulate them are particularly well conserved, we have been able to use a unique experimental combination of ES cells and Xenopus embryos to probe the nature of the regulatory networks that guide lineage specification. We have also developed a number of unique tools for the real time imaging of cell fate decisions and transcriptional plasticity in early embryos and ES cells.
+</details>
 <br>
 
 ## Projects
