@@ -12,6 +12,7 @@ We are interested in the dynamic mechanisms by which cells can both reversible p
 
 <details>
   <summary> Selected publications </summary>
+ 
 Wong, Y. F., Kumar, Y., Proks, M., Herrera, J. A. R., Rothová,M. M., Monteiro, R. S., Pozzi, S., Jennings, R. E., Hanley, N. A., Bickmore, W. A., and Brickman, J. M. **(2023)**. [Expansion of ventral foregut is linked to changes in the enhancer landscape for organ-specific differentiation](https://www.nature.com/articles/s41556-022-01075-8). _Nature Cell Biology_, doi: 10.1038/s41556-022-01075-8.
   
 Perera, M., Nissen, S. B., Proks, M., Pozzi, S., Monteiro, R. S., Trusina, A., and Brickman, J. M. **(2022)**. [Transcriptional heterogeneity and cell cycle regulation as central determinants of Primitive Endoderm priming](https://elifesciences.org/articles/78967). _eLife_, doi: 10.7554/eLife.78967.
