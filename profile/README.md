@@ -4,7 +4,7 @@
 
 ## Transcriptional basis for cell fate choice
 
-The [Brickman group](https://renew.ku.dk/research/reseach-groups/brickman-group/) aims to understand the transcriptional basis for early embryonic lineage specification.
+The [Brickman group](https://renew.ku.dk/research/brickman_group/) aims to understand the transcriptional basis for early embryonic lineage specification.
 
 We are interested in the dynamic mechanisms by which cells can both reversible prime towards a particular fate or undergo a transition into commitment.
 
